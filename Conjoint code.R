@@ -11,5 +11,3 @@ print(round(cov(data),5))
 
 head(data)
 sapply(data, class)
-
-data[1]
